@@ -19,7 +19,6 @@ document.addEventListener("keypress", function () {
     }
 });
 
-
 // Add click event to all buttons
 for (let btn of allBtns) {
     btn.addEventListener("click", btnPress);
